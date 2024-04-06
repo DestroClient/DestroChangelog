@@ -4,3 +4,4 @@ Build 1.0.1
 [+] Changelog
 [-] removed 
 [*] fixed
+[+] Sort Test
