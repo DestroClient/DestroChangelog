@@ -1,7 +1,9 @@
-Build 1.0.1
+Build 1.0.0
 [+] New Main Menu
-[+] New Modules
-[+] Changelog
-[-] removed 
-[*] fixed
-[+] Sort Test
+[+] Scaffold
+[+] More Modules
+[+] Updated Bypasses
+[+] New Altmanager
+[+] Funny Moment
+[-] Removed herobrine
+[*] fixed my aching nuts
