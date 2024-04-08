@@ -1,9 +1,4 @@
 Build 1.0.0
-[+] New Main Menu
-[+] Scaffold
-[+] More Modules
-[+] Updated Bypasses
-[+] New Altmanager
-[+] Funny Moment
-[-] Removed herobrine
-[*] fixed my aching nuts
+[+] Ported to 1.8.9
+[+] Updated optifine
+[+] Increased FPS with optimizations
