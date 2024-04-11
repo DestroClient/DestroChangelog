@@ -2,3 +2,10 @@ Build 1.0.0
 [+] Ported to 1.8.9
 [+] Updated optifine
 [+] Increased FPS with optimizations
+[+] Improved criticals and added safe mode
+[*] Fixed sliders
+[+] Added sections settings
+[+] Ncp speed and long jump
+[+] Added players list
+[+] Added module binding in click gui
+[*] Improved killaura
