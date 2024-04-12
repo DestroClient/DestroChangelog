@@ -9,3 +9,5 @@ Build 1.0.0
 [+] Added players list
 [+] Added module binding in click gui
 [*] Improved killaura
+[+] Recoded Click GUI
+[+] Added More Flight Modes
